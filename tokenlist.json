@@ -1,0 +1,62 @@
+{
+  "name": "MDEX token List",
+  "timestamp": "2023-01-06T22:55:13.889Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 6
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
+  "keywords": [
+    "MDEX",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "BTTC-Peg Wrapped Ether Token",
+      "address": "0x1249c65afb11d179ffb3ce7d4eedd1d9b98ad006",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 199,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/testkcc/0xf57a7ee19a628e4d475b72d6c9dd847c50636e01.png"
+    },
+    {
+      "name": "BTTC-Peg Tether USD Token",
+      "address": "0x9b5f27f6ea9bbd753ce3793a07cba3c74644330d",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 199,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/testkcc/0xf57a7ee19a628e4d475b72d6c9dd847c50636e01.png"
+    },
+    {
+      "name": "BTTC-Peg USDD Token",
+      "address": "0x17f235fd5974318e4e2a5e37919a209f7c37a6d1",
+      "symbol": "USDD",
+      "decimals": 18,
+      "chainId": 199,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/testkcc/0xf57a7ee19a628e4d475b72d6c9dd847c50636e01.png"
+    },
+    {
+      "name": "BTTC-Peg TRON Token",
+      "address": "0xedf53026aea60f8f75fca25f8830b7e2d6200662",
+      "symbol": "TRON",
+      "decimals": 18,
+      "chainId": 199,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/testkcc/0xf57a7ee19a628e4d475b72d6c9dd847c50636e01.png"
+    },
+    {
+      "name": "BTTC-Peg BTT Token",
+      "address": "0xa7BaCaE73356455477530355A8ADF9332Ed01cb7",
+      "symbol": "WBTT",
+      "decimals": 18,
+      "chainId": 199,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/testkcc/0xf57a7ee19a628e4d475b72d6c9dd847c50636e01.png"
+    }
+  ]
+}
